@@ -12,6 +12,7 @@ This is a collaborative Quarto project.
 
 <!-- Student sections will go here -->
 
-
+Hi Mey this is my change request prepare to be amazed  ;)
 
 # Hi Jesus!!! what's up? 
+
